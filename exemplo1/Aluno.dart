@@ -8,5 +8,3 @@ int idade; // dados primitivos: int, double, bool, float
 void fazAniversario(){
   idade++; //incremento de "um" no atributo idade
   }
-
-}
