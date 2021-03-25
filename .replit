@@ -1,2 +1,2 @@
 language = "dart"
-run = "Aluno.dart"  
+run = ${Aluno.dart}
